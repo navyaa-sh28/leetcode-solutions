@@ -49,9 +49,6 @@ Example:
 I regularly solve LeetCode problems to improve my understanding of algorithms, optimize solutions, and prepare for coding interviews and competitive programming.
 
 ## 🔗 LeetCode Profile
-
-Replace the link below with your profile:
-
 https://leetcode.com/u/navya_shukla45/
 
 ## 🌟 Why this Repository?
